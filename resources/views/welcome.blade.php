@@ -83,6 +83,10 @@
                 <div class="title m-b-md">
                     Laravel
                 </div>
+                <div id="app">
+                    <example-component/>
+                </div>
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Documentation</a>
@@ -94,5 +98,7 @@
                 </div>
             </div>
         </div>
+
+        <script type="text/javascript" src="js/app.js"></script>
     </body>
 </html>
